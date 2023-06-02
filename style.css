@@ -49,7 +49,7 @@ a{
     position: absolute;
     bottom: -15px;
 }
-.navbar-center ul li a:hover::after{
+.navbar-center ul li a:hover::after,.navbar-center ul li a.active-link::after{
     width: 100%;
     transition: width 0.3s;
 }
