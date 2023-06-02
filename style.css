@@ -77,3 +77,15 @@ a{
     background-color: #41db51;
     position: absolute;
 }
+.search-box{
+    background: #f0f2f3;
+    width: 250px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+}
+.navbar-left{
+    display: flex;
+    align-items: center;
+}
