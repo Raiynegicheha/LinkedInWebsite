@@ -51,6 +51,7 @@ a{
 }
 .navbar-center ul li a:hover::after{
     width: 100%;
+    transition: width 0.3s;
 }
 .navbar-center ul li a img{
     width: 30px;
