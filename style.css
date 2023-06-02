@@ -18,4 +18,8 @@ a{
     justify-content: space-between;
     background: #fff;
     padding: 6px 6%;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 5px 10px rgb(0,0,0,0.1);
 }
