@@ -89,3 +89,29 @@ a{
     display: flex;
     align-items: center;
 }
+.search-box input{
+    width: 100%;
+    background: transparent;
+    padding: 8px;
+    outline: none;
+    border: none;
+}
+
+/*------------------- navbar end-------------------*/
+
+.container{
+    padding: 20px 6%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/*------------------left sidebar ------------------*/
+.left-sidebar{
+    flex-basis: 25%;
+    align-self: flex-start;
+}
+/*-----------------Right sidebar-------------------*/
+.right-sidebar{
+    
+}
