@@ -154,6 +154,39 @@ a{
     align-items: center;
     border-top: 1px solid #ccc;
 }
+.sidebar-profile-link a{
+    flex-basis: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    font-size: 13px;
+    border-left: 1px solid #ccc;
+
+    
+}
+.sidebar-profile-link a:first-child{
+    border-left: 0;
+}
+.sidebar-profile-link a img{
+    width: 20px;
+    margin-right: 10px;
+
+}
+.sidebar-activity{
+    background: #fff;
+    padding: 5px 25px;
+    margin:12px 0;
+}
+.sidebar-activity h3{
+    color: #777;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 20px 0 10px;
+}
+
+
+
 /*-----------------Right sidebar-------------------*/
 .right-sidebar{
     flex-basis: 25%;
