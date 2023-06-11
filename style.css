@@ -245,6 +245,13 @@ a{
     font-size: 12px;
 }
 
+.sidebar-news .read-more-link{
+    color: #045be6;
+    font-weight: 500;
+    margin: 20px 10px;
+    
+}
+
 
 /*------------------main content--------------*/
 .main-content{
