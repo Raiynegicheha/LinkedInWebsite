@@ -249,8 +249,30 @@ a{
     color: #045be6;
     font-weight: 500;
     margin: 20px 10px;
-    
+
 }
+
+
+.sidebar-ad{
+    background: #fff;
+    padding: 15px 25px;
+    text-align: center;
+    margin: 12px 0;
+    font-size: 12px;
+
+}
+
+.sidebar-ad img{
+    width: 60px;
+    border-radius: 50%;
+    margin: 4px;
+}
+
+.sidebar-ad small{
+    float: right;
+    font-weight: 500;
+}
+
 
 
 /*------------------main content--------------*/
