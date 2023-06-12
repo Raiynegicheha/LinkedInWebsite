@@ -423,5 +423,9 @@ a{
     display: block;
     margin-bottom: -2px;
 }
+.post p{
+    font-size: 14px;
+    margin-bottom: 15px;
+}
 
 
