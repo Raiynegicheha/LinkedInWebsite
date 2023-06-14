@@ -612,4 +612,12 @@ a{
     border-radius: 4px;
     margin-right: 10px;
 }
+.profile-btn a img{
+    width: 18px;
+    margin-right: 5px;
+}
+.profile-btn .primary-btn{
+    background: #045be6;
+    color: #fff;
+}
 
