@@ -544,5 +544,22 @@ a{
 }
 
 
+/*---------------------- Profile-page -------------------*/
+
+
+.profile-main{
+    flex-basis: 73%;
+}
+.profile-sidebar{
+    flex-basis: 25%;
+    align-items: flex-start;
+    position: sticky;
+    top: 73%;
+}
+.profile-container{
+    background: #fff;
+}
+
+
 
 
