@@ -772,5 +772,16 @@ a{
     .nav-profile-img{
         width: 10px;
     }
+    .container{
+        padding: 15px 3%;
+    }
+    .left-sidebar, .right-sidebar{
+        flex-basis: 100%;
+        position: relative;
+        top: unset;
+    }
+    .main-content{
+        flex-basis: 100%;
+    }
 
 }
