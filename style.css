@@ -815,5 +815,8 @@ a{
     .sidebar-activity{
         display: none;
     }
+    .sidebar-activity.open-activity{
+        display: block;
+    }
 
 }
