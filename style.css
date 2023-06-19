@@ -745,6 +745,9 @@ a{
 .profile-footer .copyright-msg{
     justify-content: flex-start;
 }
+#showMoreLink{
+    display: none;
+}
 
 /*-----------------------media qury for smll screen------------------------*/
 @media only screen and (max-width: 600px){
